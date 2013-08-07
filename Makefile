@@ -1,11 +1,8 @@
+ARCHS = armv7
+TARGET = iPhone:latest:4.3
 #export target=simulator
 
-ARCHS = armv7
-#TARGET = iphone:6.0
-
 include theos/makefiles/common.mk
-
-GO_EASY_ON_ME = 1
 
 TWEAK_NAME = BlurredLockScreen
 BlurredLockScreen_FILES = Tweak.xm SettingsHandler.m
