@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kAnimationTime</key>
+	<real>0.5460000038146973</real>
+	<key>kBlueColor</key>
+	<real>0</real>
+	<key>kChangeBlurByTouch</key>
+	<false/>
+	<key>kColorsEnabled</key>
+	<false/>
+	<key>kDefaultBlurIntensity</key>
+	<real>8.079999923706055</real>
+	<key>kEnabled</key>
+	<true/>
+	<key>kGreenColor</key>
+	<real>0</real>
+	<key>kHideAlbumArtwork</key>
+	<false/>
+	<key>kHideBottomBar</key>
+	<false/>
+	<key>kHideChargingScreen</key>
+	<false/>
+	<key>kHideClock</key>
+	<false/>
+	<key>kLockScreenWallpaperAlpha</key>
+	<real>0</real>
+	<key>kRedColor</key>
+	<real>0</real>
+	<key>kUnlockWithTap</key>
+	<true/>
+</dict>
+</plist>

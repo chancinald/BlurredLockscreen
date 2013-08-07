@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "blurredlockscreensettings";
+		cell = PSLinkCell;
+		detail = "blurredlockscreensettingsListController";
+		icon = "blurredlockscreensettings.png";
+		isController = 1;
+		label = BlurredLockScreen;
+	};
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CalendarIconDateStyle</key>
+	<string>padding-top: 1px;</string>
+	<key>DockedIconLabelStyle</key>
+	<string>color: rgba(255,255,255,0.9); text-shadow: rgba(0,0,0,1) 0 1px 2px;</string>
+	<key>UndockedIconLabelStyle</key>
+	<string>color: rgba(255,255,255,0.9); text-shadow: rgba(0,0,0,1) 0 1px 2px;</string>
+</dict>
+</plist>
